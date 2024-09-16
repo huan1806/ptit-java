@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="HELLOJAR">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ptit/HELLOJAR.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ptit/HELLOJAR.jar!/" />
+    </SOURCES>
+  </library>
+</component>
